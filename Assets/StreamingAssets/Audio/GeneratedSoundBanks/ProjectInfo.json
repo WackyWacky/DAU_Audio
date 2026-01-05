@@ -1,0 +1,36 @@
+{
+ "ProjectInfo": {
+  "Project": {
+   "Name": "DAU_Audio_WwiseProject",
+   "GUID": "{2B4939E1-7928-4937-8A1B-9887F18A29C2}",
+   "Generator": "2024.1.10.8979"
+  },
+  "CacheRoot": "../../../../DAU_Audio_WwiseProject/.cache",
+  "Platforms": [
+   {
+    "Name": "Mac",
+    "GUID": "{2DE89811-42F1-447A-A6F1-86D99330CBA9}",
+    "BasePlatform": "Mac",
+    "BasePlatformGUID": "{9C6217D5-DD11-4795-87C1-6CE02853C540}",
+    "Path": "../../../../DAU_Audio_WwiseProject/GeneratedSoundBanks/Mac"
+   },
+   {
+    "Name": "Windows",
+    "GUID": "{15126D2F-3EF3-4BC4-A143-42921C3C4DDE}",
+    "BasePlatform": "Windows",
+    "BasePlatformGUID": "{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}",
+    "Path": "../../../../DAU_Audio_WwiseProject/GeneratedSoundBanks/Windows"
+   }
+  ],
+  "Languages": [
+   {
+    "Name": "English(US)",
+    "Id": "684519430",
+    "GUID": "{45C90BA2-CAE4-4EFA-A679-55582061714B}",
+    "Default": "true",
+    "UseAsStandIn": "true"
+   }
+  ],
+  "FileHash": "{BA7A9EF6-8B73-3336-DC7E-8C1F98DAF6AC}"
+ }
+}
